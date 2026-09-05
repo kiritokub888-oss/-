@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera lens / studio video icon with star -->
+    <path
+        android:fillColor="#FE2C55"
+        android:pathData="M34,32 C30.69,32 28,34.69 28,38 L28,70 C28,73.31 30.69,76 34,76 L66,76 C69.31,76 72,73.31 72,70 L72,38 C72,34.69 69.31,32 66,32 Z" />
+    <path
+        android:fillColor="#25F4EE"
+        android:pathData="M74,45 L86,37 L86,71 L74,63 Z" />
+    <!-- Center Play/Star symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,44 L58,54 L46,64 Z" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M64,28 L66,33 L71,33 L67,36 L68,41 L64,38 L60,41 L61,36 L57,33 L62,33 Z" />
+</vector>

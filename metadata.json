@@ -1,0 +1,6 @@
+{
+  "name": "AI Review Studio",
+  "description": "แอปสร้างวิดีโอรีวิวสินค้าด้วย AI สำหรับ TikTok, Reels และ Shopee พร้อมสคริปต์ภาษาไทยและพรีวิวแนวตั้ง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
